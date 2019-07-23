@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/ricojamjar/pen/ZmMBpV.
-
- 
+My personal portfolio displaying projects i've worked on and my CV.
